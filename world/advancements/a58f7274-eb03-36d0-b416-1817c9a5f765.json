@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2018-02-18 16:06:23 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2018-02-15 21:47:06 +0200"
@@ -74,6 +80,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_the_recipe": "2018-02-16 12:56:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2018-02-18 21:34:29 +0200"
     },
     "done": true
   },
@@ -134,6 +146,12 @@
   "minecraft:recipes/decorations/magenta_bed": {
     "criteria": {
       "has_magenta_wool": "2018-02-16 14:18:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2018-02-18 14:51:54 +0200"
     },
     "done": true
   },
@@ -329,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2018-02-18 21:15:46 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2018-02-16 15:23:44 +0200"
@@ -386,8 +410,14 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2018-02-16 14:40:27 +0200",
+      "cooked_beef": "2018-02-18 21:18:22 +0200",
       "apple": "2018-02-16 11:39:52 +0200",
-      "bread": "2018-02-17 23:12:20 +0200"
+      "cooked_cod": "2018-02-18 14:57:34 +0200",
+      "melon": "2018-02-18 19:07:16 +0200",
+      "pumpkin_pie": "2018-02-18 21:30:43 +0200",
+      "bread": "2018-02-17 23:12:20 +0200",
+      "cookie": "2018-02-18 20:19:09 +0200",
+      "carrot": "2018-02-19 00:59:48 +0200"
     },
     "done": false
   },
@@ -400,6 +430,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2018-02-16 15:47:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2018-02-18 15:01:59 +0200"
     },
     "done": true
   },
@@ -505,6 +541,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2018-02-18 14:51:54 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2018-02-15 22:49:16 +0200"
@@ -562,7 +604,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "bred_chicken": "2018-02-16 12:20:11 +0200",
-      "bred_sheep": "2018-02-16 12:57:21 +0200"
+      "bred_sheep": "2018-02-16 12:57:21 +0200",
+      "bred_cow": "2018-02-18 16:08:37 +0200"
     },
     "done": false
   },
@@ -639,6 +682,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2018-02-18 21:15:46 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2018-02-15 23:11:29 +0200"
@@ -678,6 +727,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2018-02-15 22:20:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2018-02-18 21:17:34 +0200"
     },
     "done": true
   },
@@ -759,6 +814,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2018-02-18 14:17:21 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_black_dye": "2018-02-16 10:43:01 +0200"
@@ -819,6 +880,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2018-02-18 14:51:54 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2018-02-15 22:07:24 +0200"
@@ -849,6 +916,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2018-02-18 15:01:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2018-02-18 15:22:03 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-02-15 22:20:56 +0200"
@@ -857,11 +936,16 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "wither_skeleton": "2018-02-18 14:57:19 +0200",
       "zombie_villager": "2018-02-17 22:19:26 +0200",
+      "magma_cube": "2018-02-18 22:07:40 +0200",
       "slime": "2018-02-16 11:52:49 +0200",
       "skeleton": "2018-02-15 23:34:54 +0200",
+      "blaze": "2018-02-18 15:08:43 +0200",
       "zombie": "2018-02-15 20:38:33 +0200",
+      "witch": "2018-02-18 13:23:08 +0200",
       "spider": "2018-02-15 23:54:06 +0200",
+      "creeper": "2018-02-18 16:01:54 +0200",
       "enderman": "2018-02-16 14:53:11 +0200"
     },
     "done": false
@@ -881,6 +965,18 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2018-02-16 10:20:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2018-02-19 00:00:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2018-02-18 16:23:29 +0200"
     },
     "done": true
   },
@@ -1070,6 +1166,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2018-02-18 15:08:46 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2018-02-15 22:36:16 +0200"
@@ -1178,6 +1280,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_the_recipe": "2018-02-18 19:33:15 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2018-02-15 22:20:56 +0200"
@@ -1241,6 +1349,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2018-02-15 23:37:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2018-02-18 21:34:29 +0200"
     },
     "done": true
   },
@@ -1316,6 +1430,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2018-02-18 16:06:23 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2018-02-15 21:47:06 +0200"
@@ -1343,6 +1463,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2018-02-15 22:02:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2018-02-18 15:22:03 +0200"
     },
     "done": true
   },
@@ -1478,6 +1604,24 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2018-02-18 14:17:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma": {
+    "criteria": {
+      "has_magma_cream": "2018-02-19 00:12:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2018-02-18 15:08:46 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2018-02-15 22:50:02 +0200"
@@ -1493,6 +1637,12 @@
   "minecraft:recipes/building_blocks/string_to_wool": {
     "criteria": {
       "has_string": "2018-02-15 23:54:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2018-02-18 14:51:54 +0200"
     },
     "done": true
   },
@@ -1526,6 +1676,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2018-02-18 15:08:46 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2018-02-15 22:07:32 +0200"
@@ -1535,6 +1691,12 @@
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2018-02-16 10:25:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2018-02-19 00:00:20 +0200"
     },
     "done": true
   },
@@ -1572,6 +1734,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2018-02-18 14:48:27 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2018-02-16 13:00:32 +0200"
@@ -1581,6 +1749,12 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_brick": "2018-02-16 10:26:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2018-02-18 23:59:16 +0200"
     },
     "done": true
   },
@@ -1632,6 +1806,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "melon_stem": "2018-02-18 11:46:19 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/boat": {
     "criteria": {
       "entered_water": "2018-02-15 21:56:58 +0200"
@@ -1641,6 +1821,12 @@
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_lapis": "2018-02-15 23:26:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2018-02-18 14:51:54 +0200"
     },
     "done": true
   },
@@ -1719,6 +1905,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2018-02-16 10:25:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2018-02-18 21:15:33 +0200"
     },
     "done": true
   },
@@ -1911,6 +2103,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2018-02-15 22:07:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2018-02-19 00:00:20 +0200"
     },
     "done": true
   },
