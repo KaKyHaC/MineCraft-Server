@@ -1,25 +1,55 @@
-[10:30:30] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[10:30:30] [Server thread/INFO]: Loading properties
-[10:30:31] [Server thread/INFO]: Default game type: SURVIVAL
-[10:30:31] [Server thread/INFO]: Generating keypair
-[10:30:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[10:30:31] [Server thread/INFO]: Using default channel type
-[10:30:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[10:30:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[10:30:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[10:30:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[10:30:31] [Server thread/INFO]: Preparing level "world"
-[10:30:31] [Server thread/INFO]: Loaded 488 advancements
-[10:30:31] [Server thread/INFO]: Preparing start region for level 0
-[10:30:32] [Server thread/INFO]: Preparing spawn area: 44%
-[10:30:33] [Server thread/INFO]: Done (1,915s)! For help, type "help" or "?"
-[10:30:57] [Server thread/INFO]: plumbeer[/25.53.250.104:51161] logged in with entity id 631 at (18.5, 67.0, 246.5)
-[10:30:57] [Server thread/INFO]: plumbeer joined the game
-[10:50:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2069ms behind, skipping 41 tick(s)
-[10:50:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3149ms behind, skipping 62 tick(s)
-[10:57:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2872ms behind, skipping 57 tick(s)
-[11:03:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3567ms behind, skipping 71 tick(s)
-[11:30:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2154ms behind, skipping 43 tick(s)
-[11:32:45] [Server thread/WARN]: plumbeer moved too quickly! 82.48932291579419,4.0,352.8745419230289
-[12:04:53] [Server thread/INFO]: plumbeer lost connection: Disconnected
-[12:04:53] [Server thread/INFO]: plumbeer left the game
+[18:40:23] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[18:40:23] [Server thread/INFO]: Loading properties
+[18:40:23] [Server thread/INFO]: Default game type: SURVIVAL
+[18:40:23] [Server thread/INFO]: Generating keypair
+[18:40:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:40:23] [Server thread/INFO]: Using default channel type
+[18:40:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:40:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:40:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:40:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:40:23] [Server thread/INFO]: Preparing level "world"
+[18:40:24] [Server thread/INFO]: Loaded 488 advancements
+[18:40:24] [Server thread/INFO]: Preparing start region for level 0
+[18:40:25] [Server thread/INFO]: Preparing spawn area: 42%
+[18:40:25] [Server thread/INFO]: Done (1,997s)! For help, type "help" or "?"
+[18:53:20] [Server thread/INFO]: plumbeer[/25.53.250.104:57014] logged in with entity id 602 at (17.871161846949782, 73.0, 249.17424762177862)
+[18:53:20] [Server thread/INFO]: plumbeer joined the game
+[18:53:34] [Server thread/INFO]: <plumbeer> ты тут?
+[18:54:06] [Server thread/INFO]: архивариус[/127.0.0.1:51420] logged in with entity id 1539 at (-83.28310380115872, 72.0, 269.9626525987973)
+[18:54:06] [Server thread/INFO]: архивариус joined the game
+[18:54:16] [Server thread/INFO]: <plumbeer> спим?
+[18:54:22] [Server thread/INFO]: <архивариус> lf
+[18:58:05] [Server thread/WARN]: Horse moved wrongly!
+[18:58:40] [Server thread/WARN]: plumbeer moved wrongly!
+[19:01:06] [Server thread/WARN]: Horse moved wrongly!
+[19:01:06] [Server thread/WARN]: Horse moved wrongly!
+[19:04:35] [Server thread/WARN]: Horse moved wrongly!
+[19:04:35] [Server thread/WARN]: Horse moved wrongly!
+[19:09:38] [Server thread/WARN]: архивариус moved wrongly!
+[19:12:44] [Server thread/WARN]: Horse moved wrongly!
+[19:14:40] [Server thread/INFO]: plumbeer has made the advancement [What a Deal!]
+[19:14:52] [Server thread/INFO]: архивариус has made the advancement [What a Deal!]
+[19:20:41] [Server thread/WARN]: plumbeer moved wrongly!
+[19:21:28] [Server thread/WARN]: архивариус moved wrongly!
+[19:22:27] [Server thread/WARN]: Horse (vehicle of plumbeer) moved too quickly! 9.980489187109612,1.0,-0.8638745483750085
+[19:22:27] [Server thread/WARN]: Horse (vehicle of plumbeer) moved too quickly! 10.50904375591702,1.0,-0.8511930315563063
+[19:22:27] [Server thread/WARN]: Horse (vehicle of plumbeer) moved too quickly! 11.037435036407516,1.0,-0.8304543262105994
+[19:22:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2603ms behind, skipping 52 tick(s)
+[19:23:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2357ms behind, skipping 47 tick(s)
+[19:31:11] [Server thread/INFO]: архивариус was shot by Skeleton
+[19:35:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2001ms behind, skipping 40 tick(s)
+[19:35:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2377ms behind, skipping 47 tick(s)
+[19:36:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2931ms behind, skipping 58 tick(s)
+[19:37:50] [Server thread/INFO]: plumbeer was slain by Zombie
+[19:39:19] [Server thread/INFO]: архивариус was slain by plumbeer
+[19:39:25] [Server thread/INFO]: архивариус lost connection: Disconnected
+[19:39:25] [Server thread/INFO]: архивариус left the game
+[19:40:01] [Server thread/WARN]: Horse moved wrongly!
+[20:01:45] [Server thread/INFO]: архивариус[/127.0.0.1:51599] logged in with entity id 174687 at (24.41348763180523, 68.0, 260.43364015367024)
+[20:01:45] [Server thread/INFO]: архивариус joined the game
+[20:05:15] [Server thread/INFO]: plumbeer fell from a high place
+[20:32:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2060ms behind, skipping 41 tick(s)
+[20:36:38] [Server thread/WARN]: plumbeer moved too quickly! 82.59722936752257,4.0,353.2227105112213
+[20:36:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2522ms behind, skipping 50 tick(s)
+[20:39:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2404ms behind, skipping 48 tick(s)
