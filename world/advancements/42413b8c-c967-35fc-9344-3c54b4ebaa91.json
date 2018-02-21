@@ -756,6 +756,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_villager": "2018-02-20 23:22:21 +0200",
       "magma_cube": "2018-02-18 14:58:03 +0200",
       "skeleton": "2018-02-15 23:09:19 +0200",
       "zombie": "2018-02-15 22:45:32 +0200",
