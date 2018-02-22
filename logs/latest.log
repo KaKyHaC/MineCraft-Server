@@ -53,3 +53,32 @@
 [20:36:38] [Server thread/WARN]: plumbeer moved too quickly! 82.59722936752257,4.0,353.2227105112213
 [20:36:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2522ms behind, skipping 50 tick(s)
 [20:39:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2404ms behind, skipping 48 tick(s)
+[20:53:42] [Server thread/INFO]: архивариус lost connection: Disconnected
+[20:53:42] [Server thread/INFO]: архивариус left the game
+[21:06:54] [Server thread/INFO]: UnicornKing[/25.53.249.2:50600] logged in with entity id 320321 at (1.1276615246867938, 72.0, 294.641575239298)
+[21:06:54] [Server thread/INFO]: UnicornKing joined the game
+[21:09:52] [Server thread/INFO]: <plumbeer> го спать
+[21:09:57] [Server thread/INFO]: <plumbeer> я сплю
+[21:41:41] [Server thread/INFO]: UnicornKing lost connection: Disconnected
+[21:41:41] [Server thread/INFO]: UnicornKing left the game
+[21:55:07] [Server thread/INFO]: UnicornKing[/25.53.249.2:50942] logged in with entity id 415366 at (15.5, 73.0, 292.5)
+[21:55:07] [Server thread/INFO]: UnicornKing joined the game
+[21:55:10] [Server thread/INFO]: <plumbeer> кто-то в игре?
+[21:56:01] [Server thread/INFO]: <UnicornKing> спи
+[21:56:08] [Server thread/INFO]: <plumbeer> иду
+[21:58:06] [Server thread/WARN]: plumbeer moved too quickly! 1.1488910153354475,-9.768476202412984,-2.2378896231341514
+[21:58:24] [Server thread/WARN]: UnicornKing moved too quickly! -9.736326614405439,0.0,2.477449641403325
+[22:01:26] [Server thread/WARN]: plumbeer moved too quickly! -0.31035709898721464,-11.065764912039818,-0.31228296266093025
+[22:02:45] [Server thread/INFO]: UnicornKing fell from a high place
+[22:10:53] [Server thread/WARN]: UnicornKing moved too quickly! -6.998944784870878,0.0,-7.323003596043293
+[22:28:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5117ms behind, skipping 102 tick(s)
+[22:28:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5411ms behind, skipping 108 tick(s)
+[22:29:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12729ms behind, skipping 254 tick(s)
+[22:29:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5143ms behind, skipping 102 tick(s)
+[22:30:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2448ms behind, skipping 48 tick(s)
+[22:37:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2205ms behind, skipping 44 tick(s)
+[22:37:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2575ms behind, skipping 51 tick(s)
+[22:39:28] [Server thread/INFO]: UnicornKing lost connection: Timed out
+[22:39:28] [Server thread/INFO]: UnicornKing left the game
+[22:54:51] [Server thread/INFO]: plumbeer lost connection: Internal Exception: java.io.IOException: Удаленный хост принудительно разорвал существующее подключение
+[22:54:51] [Server thread/INFO]: plumbeer left the game
