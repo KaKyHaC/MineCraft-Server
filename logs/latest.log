@@ -1,63 +1,89 @@
-[10:23:47] [Server thread/INFO]: Loading properties
-[10:23:47] [Server thread/INFO]: Default game type: SURVIVAL
-[10:23:47] [Server thread/INFO]: Generating keypair
-[10:23:47] [Server thread/INFO]: Starting Minecraft server on *:25565
-[10:23:47] [Server thread/INFO]: Using default channel type
-[10:23:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[10:23:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[10:23:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[10:23:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[10:23:48] [Server thread/INFO]: Preparing level "world"
-[10:23:50] [Server thread/INFO]: Loaded 488 advancements
-[10:23:50] [Server thread/INFO]: Preparing start region for level 0
-[10:23:51] [Server thread/INFO]: Preparing spawn area: 0%
-[10:23:52] [Server thread/INFO]: Preparing spawn area: 33%
-[10:23:53] [Server thread/INFO]: Preparing spawn area: 62%
-[10:23:54] [Server thread/INFO]: Preparing spawn area: 93%
-[10:23:54] [Server thread/INFO]: Done (6,069s)! For help, type "help" or "?"
-[10:30:37] [Server thread/INFO]: plumbeer[/25.53.250.104:62961] logged in with entity id 700 at (30.081911746069416, 10.0, 239.30659764575108)
-[10:30:37] [Server thread/INFO]: plumbeer joined the game
-[10:30:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2695ms behind, skipping 53 tick(s)
-[10:32:10] [Server thread/INFO]: UnicornKing[/25.53.249.2:49965] logged in with entity id 4088 at (11.300000011920927, 79.0, 301.05867588257547)
-[10:32:10] [Server thread/INFO]: UnicornKing joined the game
-[10:32:14] [Server thread/INFO]: ����������[/127.0.0.1:52596] logged in with entity id 4722 at (23.818006865865176, 8.0, 253.5193565825811)
-[10:32:14] [Server thread/INFO]: ���������� joined the game
-[10:32:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2713ms behind, skipping 54 tick(s)
-[10:32:26] [Server thread/INFO]: <����������> �� ��� ������� ?
-[10:32:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5159ms behind, skipping 103 tick(s)
-[10:33:40] [Server thread/INFO]: <����������> ��� ��� ���
-[10:33:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2182ms behind, skipping 43 tick(s)
-[10:34:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3046ms behind, skipping 60 tick(s)
-[10:34:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2036ms behind, skipping 40 tick(s)
-[10:36:35] [Server thread/INFO]: <plumbeer> ��� �����
-[10:37:02] [Server thread/INFO]: <����������> ����
-[10:39:33] [Server thread/INFO]: UnicornKing hit the ground too hard
-[10:44:09] [Server thread/INFO]: plumbeer lost connection: Timed out
-[10:44:09] [Server thread/INFO]: plumbeer left the game
-[10:44:19] [Server thread/INFO]: UnicornKing lost connection: Disconnected
-[10:44:19] [Server thread/INFO]: UnicornKing left the game
-[10:44:37] [Server thread/INFO]: plumbeer[/25.53.250.104:55557] logged in with entity id 23125 at (30.211713980019624, 8.0, 238.68139040468716)
-[10:44:37] [Server thread/INFO]: plumbeer joined the game
-[10:44:54] [Server thread/INFO]: UnicornKing[/25.53.249.2:50268] logged in with entity id 23839 at (13.943959174402238, 79.0, 301.0611100534694)
-[10:44:54] [Server thread/INFO]: UnicornKing joined the game
-[10:45:18] [Server thread/INFO]: UnicornKing lost connection: Disconnected
-[10:45:18] [Server thread/INFO]: UnicornKing left the game
-[10:45:21] [Server thread/INFO]: plumbeer lost connection: Disconnected
-[10:45:21] [Server thread/INFO]: plumbeer left the game
-[10:45:27] [Server thread/INFO]: plumbeer[/25.53.250.104:56067] logged in with entity id 25219 at (30.211713980019624, 8.0, 238.68139040468716)
-[10:45:27] [Server thread/INFO]: plumbeer joined the game
-[10:45:42] [Server thread/INFO]: UnicornKing[/25.53.249.2:50309] logged in with entity id 25763 at (13.943959174402238, 79.0, 301.0611100534694)
-[10:45:42] [Server thread/INFO]: UnicornKing joined the game
-[10:47:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2018ms behind, skipping 40 tick(s)
-[10:47:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2397ms behind, skipping 47 tick(s)
-[10:51:56] [Server thread/INFO]: <����������> ������
-[10:52:00] [Server thread/INFO]: <����������> ��� � ��� ������ ?
-[10:52:04] [Server thread/INFO]: <����������> ��� ���� ?
-[10:52:47] [Server thread/INFO]: <UnicornKing> ������ �����
-[10:52:57] [Server thread/INFO]: <plumbeer> ����� ��� �����
-[10:54:07] [Server thread/INFO]: UnicornKing was shot by Skeleton
-[10:54:40] [Server thread/INFO]: <����������> �������
-[10:54:56] [Server thread/INFO]: <����������> ��� ��������� ����� 5 ��������
-[10:55:07] [Server thread/INFO]: <����������> ���� �� ���������
-[10:55:19] [Server thread/INFO]: ���������� lost connection: Disconnected
-[10:55:19] [Server thread/INFO]: ���������� left the game
+[21:00:37] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[21:00:37] [Server thread/INFO]: Loading properties
+[21:00:37] [Server thread/INFO]: Default game type: SURVIVAL
+[21:00:37] [Server thread/INFO]: Generating keypair
+[21:00:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:00:37] [Server thread/INFO]: Using default channel type
+[21:00:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:00:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:00:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:00:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:00:38] [Server thread/INFO]: Preparing level "world"
+[21:00:38] [Server thread/INFO]: Loaded 488 advancements
+[21:00:38] [Server thread/INFO]: Preparing start region for level 0
+[21:00:39] [Server thread/INFO]: Preparing spawn area: 7%
+[21:00:40] [Server thread/INFO]: Preparing spawn area: 53%
+[21:00:41] [Server thread/INFO]: Done (3.239s)! For help, type "help" or "?"
+[21:00:42] [Server thread/INFO]: plumbeer[/192.168.0.107:50795] logged in with entity id 670 at (17.864336844515478, 67.0, 249.18897379136604)
+[21:00:42] [Server thread/INFO]: plumbeer joined the game
+[21:00:45] [Server thread/INFO]: архивариус[/25.75.70.238:54936] logged in with entity id 671 at (11.929697902579955, 89.0, 248.30180587890655)
+[21:00:45] [Server thread/INFO]: архивариус joined the game
+[21:00:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2074ms behind, skipping 41 tick(s)
+[21:02:08] [Server thread/INFO]: <архивариус> сколько раз ты уже пошликала на мою радугу ?
+[21:02:14] [Server thread/INFO]: <plumbeer> 2
+[21:02:32] [Server thread/INFO]: <архивариус> красава
+[21:08:09] [Server thread/INFO]: <архивариус> ты где ?
+[21:08:16] [Server thread/INFO]: <plumbeer> дома
+[21:08:20] [Server thread/INFO]: <архивариус> а я в кровате
+[21:09:52] [Server thread/INFO]: архивариус lost connection: Disconnected
+[21:09:52] [Server thread/INFO]: архивариус left the game
+[21:09:59] [Server thread/INFO]: архивариус[/25.75.70.238:54991] logged in with entity id 28975 at (-83.13677842578822, 72.0, 269.4749014416078)
+[21:09:59] [Server thread/INFO]: архивариус joined the game
+[21:11:52] [Server thread/INFO]: <архивариус> тут 36 биомов
+[21:11:57] [Server thread/INFO]: <архивариус> 22 типа понстров
+[21:12:14] [Server thread/INFO]: <архивариус> 35 видов еды
+[21:12:29] [Server thread/INFO]: <архивариус> 10 животных
+[21:13:14] [Server thread/INFO]: <архивариус> можно исцлять зомби крестьян
+[21:14:01] [Server thread/INFO]: <архивариус> можно заманить гаста в наш мир
+[21:14:11] [Server thread/INFO]: <plumbeer> через портал?
+[21:14:17] [Server thread/INFO]: <архивариус> да
+[21:14:50] [Server thread/INFO]: <архивариус> надо убивать эндерманов
+[21:14:58] [Server thread/INFO]: <архивариус> потом если их глаз кинуть
+[21:15:03] [Server thread/INFO]: <архивариус> он летит в крепость
+[21:17:57] [Server thread/INFO]: <plumbeer> че за нахуй?
+[21:24:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2381ms behind, skipping 47 tick(s)
+[21:33:38] [Server thread/INFO]: <plumbeer> что это бля?
+[21:33:55] [Server thread/INFO]: <архивариус> радужный мост
+[21:52:14] [Server thread/WARN]: plumbeer moved too quickly! -0.5719249857603437,-11.179957870082404,0.012926189694553614
+[22:00:22] [Server thread/INFO]: <архивариус> поспим
+[22:00:27] [Server thread/INFO]: <plumbeer> не
+[22:00:31] [Server thread/INFO]: <архивариус> сук
+[22:01:08] [Server thread/INFO]: <plumbeer> сплю
+[22:13:49] [Server thread/INFO]: <plumbeer> сплю
+[22:27:41] [Server thread/INFO]: <plumbeer> сплю
+[22:27:58] [Server thread/INFO]: <plumbeer> ты тут?
+[22:28:00] [Server thread/INFO]: <архивариус> да
+[22:28:19] [Server thread/INFO]: <архивариус> я подрубил режим схемотехника
+[22:28:32] [Server thread/INFO]: <plumbeer> партыку к нам повал?
+[22:28:41] [Server thread/INFO]: <архивариус> хаха
+[22:31:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2193ms behind, skipping 43 tick(s)
+[22:40:18] [Server thread/INFO]: <plumbeer> еспи
+[22:40:35] [Server thread/INFO]: <архивариус> +
+[22:46:40] [Server thread/INFO]: plumbeer lost connection: Disconnected
+[22:46:40] [Server thread/INFO]: plumbeer left the game
+[22:47:00] [Server thread/INFO]: архивариус lost connection: Disconnected
+[22:47:00] [Server thread/INFO]: архивариус left the game
+[22:47:26] [Server thread/INFO]: plumbeer[/192.168.0.107:50349] logged in with entity id 293543 at (14.647643708479954, 93.0, 253.50041245582702)
+[22:47:26] [Server thread/INFO]: plumbeer joined the game
+[22:47:44] [Server thread/INFO]: архивариус[/25.75.70.238:55198] logged in with entity id 295234 at (-65.0924843954363, 77.7125, 269.5)
+[22:47:44] [Server thread/INFO]: архивариус joined the game
+[22:49:53] [Server thread/INFO]: <архивариус> лол
+[22:49:59] [Server thread/INFO]: <архивариус> а нахуя тебе дерево ?
+[22:50:06] [Server thread/INFO]: <архивариус> ты какую-то общягу построила
+[22:52:49] [Server thread/INFO]: <plumbeer> САМ ССАНИНА
+[22:56:57] [Server thread/INFO]: <архивариус> не уверен в законном происхождении своей ахуенности
+[22:57:04] [Server thread/INFO]: <архивариус> но тебе стоит попробовать мою жд
+[22:57:19] [Server thread/INFO]: <архивариус> садись на свой конец
+[22:58:14] [Server thread/INFO]: <архивариус> ну
+[22:58:20] [Server thread/INFO]: <plumbeer> yt
+[22:58:21] [Server thread/INFO]: <plumbeer> ne
+[22:58:28] [Server thread/INFO]: <архивариус> бесишь
+[23:04:44] [Server thread/INFO]: <архивариус> поспим ?
+[23:05:24] [Server thread/INFO]: <plumbeer> +
+[23:18:13] [Server thread/INFO]: архивариус was slain by Zombie
+[23:18:49] [Server thread/INFO]: архивариус was slain by Zombie
+[23:19:20] [Server thread/INFO]: архивариус was slain by Zombie
+[23:19:31] [Server thread/INFO]: <plumbeer> часто дохнишь
+[23:19:41] [Server thread/INFO]: архивариус was slain by Zombie
+[23:19:44] [Server thread/INFO]: архивариус lost connection: Disconnected
+[23:19:44] [Server thread/INFO]: архивариус left the game

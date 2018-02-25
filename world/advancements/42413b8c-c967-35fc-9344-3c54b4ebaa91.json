@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2018-02-25 17:57:39 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2018-02-17 18:42:08 +0200"
@@ -278,6 +284,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2018-02-15 23:09:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2018-02-25 17:57:39 +0200"
     },
     "done": true
   },
@@ -526,6 +538,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2018-02-25 17:57:39 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2018-02-15 22:46:04 +0200"
@@ -553,6 +571,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-02-17 18:42:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2018-02-25 17:57:39 +0200"
     },
     "done": true
   },
@@ -646,6 +670,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2018-02-25 18:00:52 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2018-02-17 17:47:59 +0200"
@@ -736,6 +766,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2018-02-25 17:57:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2018-02-25 17:57:39 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2018-02-17 20:34:49 +0200"
@@ -756,15 +798,23 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "wither_skeleton": "2018-02-25 17:53:08 +0200",
       "zombie_villager": "2018-02-20 23:22:21 +0200",
       "magma_cube": "2018-02-18 14:58:03 +0200",
       "skeleton": "2018-02-15 23:09:19 +0200",
+      "blaze": "2018-02-25 17:54:01 +0200",
       "zombie": "2018-02-15 22:45:32 +0200",
       "spider": "2018-02-17 16:01:13 +0200",
       "creeper": "2018-02-17 16:52:37 +0200",
       "enderman": "2018-02-17 23:53:26 +0200"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2018-02-25 17:57:39 +0200"
+    },
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
@@ -856,9 +906,21 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2018-02-25 17:57:39 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2018-02-15 22:48:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2018-02-25 17:57:39 +0200"
     },
     "done": true
   },
@@ -967,6 +1029,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2018-02-17 20:05:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2018-02-25 17:57:39 +0200"
     },
     "done": true
   },
@@ -1306,6 +1374,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2018-02-25 18:00:52 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2018-02-17 16:07:18 +0200"
@@ -1629,6 +1703,12 @@
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2018-02-17 20:12:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2018-02-25 17:57:39 +0200"
     },
     "done": true
   },
