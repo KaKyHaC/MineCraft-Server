@@ -574,6 +574,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2018-02-26 11:07:18 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_banner": {
     "criteria": {
       "has_yellow_wool": "2018-02-15 21:44:02 +0200"
@@ -925,6 +931,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2018-02-15 22:49:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2018-02-26 11:07:18 +0200"
     },
     "done": true
   },
@@ -1594,6 +1606,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2018-02-16 11:29:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2018-02-26 11:07:18 +0200"
     },
     "done": true
   },
